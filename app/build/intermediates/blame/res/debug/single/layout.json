@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/res/merged/debug/layout/dialog_url.xml",
+        "source": "/Users/chaokong/Documents/Android/cronet-android-sample/app/src/main/res/layout/dialog_url.xml"
+    },
+    {
+        "merged": "/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/chaokong/Documents/Android/cronet-android-sample/app/src/main/res/layout/activity_main.xml"
+    }
+]

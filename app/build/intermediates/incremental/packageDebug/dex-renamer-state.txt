@@ -1,0 +1,7 @@
+#Fri Oct 14 15:53:09 PDT 2016
+base.0=/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64a7d3098e50c1b1763c5ef1b236027150c04514
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57888f31584d27d00510597f6278962049df0e36/classes.dex
+base.1=/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57888f31584d27d00510597f6278962049df0e36
+file.0=/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64a7d3098e50c1b1763c5ef1b236027150c04514/classes.dex

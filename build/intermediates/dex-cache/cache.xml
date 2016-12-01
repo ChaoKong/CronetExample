@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.0.0_5fac11f98780e6e8c034bf8de13c8043eb5dded6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/Documents/Android/cronet-android-sample/app/libs/cronet_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1a7ff6be9c2382cd268f601c00e8495ff2cc80b5">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/cronet_api_5d22ca928edf0656d42d44c6af284c9be085cb1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e3de500c81334632703e1dbe0be7eb66e87ef46">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64a7d3098e50c1b1763c5ef1b236027150c04514/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.0.0_a4a8a268503b9ca2d093705fc0fc77809b4406a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/Documents/Android/cronet-android-sample/app/libs/cronet.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e656190f134479b6c4df52eeea483f01221b4806">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/cronet_ee8870fc9f953688c5269d1676e1b039610691ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f73b0140a72b0504153f72963c144736d6db98b">
+        <dex dex="/Users/chaokong/Documents/Android/cronet-android-sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57888f31584d27d00510597f6278962049df0e36/classes.dex" />
+    </item>
+
+</items>
